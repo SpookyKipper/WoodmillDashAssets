@@ -6,3 +6,9 @@
     border-color: #fdc90f;
     color: #b18a00;
 }
+
+
+::selection {
+    color: inherit;
+    text-shadow: 0 0 5px;
+}
