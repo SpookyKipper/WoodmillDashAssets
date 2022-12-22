@@ -9,6 +9,11 @@
 
 
 ::selection {
-    color: inherit;
-    text-shadow: 0 0 5px;
+    color: white;
+    background-color: #7e3af2;
+}
+
+::moz-selection {
+    color: white;
+    background-color: #7e3af2;
 }
